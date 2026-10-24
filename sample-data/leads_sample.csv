@@ -1,0 +1,6 @@
+business,trade,town,website,no_https,not_mobile,no_cta,no_contact_form
+Example Plumbing Co,plumber,Sampletown,,,,,
+Demo Auto Repairs,mechanic,Sampletown,https://example.com,no,yes,yes,yes
+Placeholder Electrical,electrician,Testville,http://example.org,yes,yes,no,yes
+Fictional Guest House,accommodation,Testville,https://example.net,no,no,no,no
+Sample Tree Services,tree felling,Sampletown,,,,,
